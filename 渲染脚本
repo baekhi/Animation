@@ -1,0 +1,3 @@
+渲染脚本
+"/Applications/Autodesk/maya2019/Maya.app/Contents/bin/Render" -s 1 -e 2 -rd /Users/baekhi/Downloads/class_data/a /Users/baekhi/Downloads/class_data/19XE/scenes/AN/EP001_SC001_001_an.mb
+“Render路径” -s 开始帧 -e 结束帧 -rd 渲染输出路径 渲染源文件
